@@ -12,7 +12,7 @@
       "dur": 120,
       "id": 341195,
       "imax": true,
-      "img": "/static/img/4.jpg",
+      "img": "./static/img/4.jpg",
       "isShowing": true,
       "late": false,
       "mk": 0,
